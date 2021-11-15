@@ -1,4 +1,4 @@
-## Amazon Cloudfront Distribution Clone
+## Amazon CloudFront Distribution Clone
 
 ### Background
 
